@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 🔭 It's kind of corny 🌽, but I'm working on building a massive website 🕸️ that is widely accepted by everyone. Maybe I won't address this point until I've completed the task I set out to do...
 
