@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 It's kind of corny 🌽, but I'm working on building a massive website 🕸️ that is accessed by everyone. Maybe I won't address this point until I've completed the task I set out to do...
+🔭 It's kind of corny 🌽, but I'm working on building a massive website 🕸️ that is widely accepted by everyone. Maybe I won't address this point until I've completed the task I set out to do...
 
 🌱 I'm currently learning MERN stack also Web-Dev which is completely new to me but that is how learning works we learn new things everyday.
 
