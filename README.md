@@ -10,7 +10,7 @@
 
 💬 You can ask me about anything related to my previous work exprience and College.
 
-📫 You can reach me on [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codepur_ka_superhero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arasamannar-ak-79984a28a/)  [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.com/users/:id%arasa#3063)) [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arasamannar@gmail.com)
+📫 You can reach me on [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arasamannar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arasamannar)  [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.com/users/:id%arasa#3063)) [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arasamannar@gmail.com)
 
 ⚡ Fun fact: 💻 Windows 1.0 version had a 16-bit interface, which was less than 1MB. It needs a minimum of 256 KB, a graphics adapter card, and two-sided floppy disk drives 💾.
 
