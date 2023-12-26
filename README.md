@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning MERN stack also Web-Dev which is completely new to me but that is how learning works we learn new things everyday.
 
-👯 Collaboration never thought of it hopefully in the future when I gain enough knowledge to collaborate with other people.
+👯 Collaboration, never thought of it hopefully in the future when I gain enough knowledge to collaborate with other people.
 
 🤔 I'm looking for help with learning Javascript and C Programing.
 
